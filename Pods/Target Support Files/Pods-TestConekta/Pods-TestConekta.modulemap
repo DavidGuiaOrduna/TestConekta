@@ -1,0 +1,6 @@
+framework module Pods_TestConekta {
+  umbrella header "Pods-TestConekta-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "220F6108-7DB7-46C0-BACA-F28F1FF114D8"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10AE789C-0F0A-44B2-9E54-DB45094D767D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestConekta/InfoData/InfoDataViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF7A2826-9543-4C90-9C30-36218CAD9A55"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestConekta/InfoData/InfoDataViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "didGetResponseModel(response:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FF7A2826-9543-4C90-9C30-36218CAD9A55 - c2f91ffefa7697d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestConekta.InfoDataViewController.didGetResponseModel(response: Swift.Array&lt;TestConekta.ResultModel&gt;) -&gt; ()"
+                  moduleName = "TestConekta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidguia/Documents/TestConekta/TestConekta/InfoData/InfoDataViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "309">
+               </Location>
+               <Location
+                  uuid = "FF7A2826-9543-4C90-9C30-36218CAD9A55 - 1dbbe75f9335b8ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in TestConekta.InfoDataViewController.didGetResponseModel(response: Swift.Array&lt;TestConekta.ResultModel&gt;) -&gt; ()"
+                  moduleName = "TestConekta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/davidguia/Documents/TestConekta/TestConekta/InfoData/InfoDataViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "341B0289-F2EB-4125-BE20-64C778E7A7FF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
